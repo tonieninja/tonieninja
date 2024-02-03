@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 
 <!--
 **tonieninja/tonieninja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,21 +17,28 @@ Here are some ideas to get you started:
 
 ## Welcome to My GitHub Profile
 
-I'm Tonieninja, a passionate developer working on various projects across different platforms and technologies. Here's a brief overview of what I'm currently working on:
+Hey, I'm tonieninja, a passionate developer exploring the realms of technology and building exciting projects! Below, you'll find an overview of what's keeping me busy lately.
 
 ### Current Projects
 
-1. **Rust Renew**: A project focused on improving Rust programming language proficiency.
-2. **tonieninja.xyz**: A personal website where I showcase my projects, skills, and interests.
-3. **Lightbot in Discord.js**: A Discord bot built using Discord.js library for various utility and entertainment purposes.
-4. **FiveM LSPD Bot in Discord.js**: A Discord bot tailored for FiveM servers, specifically focusing on LSPD-related functions.
-5. **Minecraft Hypixel Skyblock DXPR Stats Viewer**: A tool to view stats related to DXPR (Dungeons XP/Rewards) in Minecraft Hypixel Skyblock.
+1. **Rust Renew**: Delving deep into the world of Rust gaming with Rust Renew! Utilizing the Rust+ API, Rust Renew aims to enhance every aspect of your Rust gaming experience. From base management to server monitoring, expect a suite of features designed to take your Rust adventures to the next level!
+
+2. **tonieninja.xyz**: My digital playground! It's where I showcase my projects, share insights, and connect with fellow developers. Expect updates, blog posts, and maybe even a surprise or two!
+
+3. **Lightbot in Discord.js**: Meet my Discord companion! Lightbot, crafted with Discord.js, offers an array of utility and entertainment features to brighten up any server.
+
+4. **FiveM LSPD Bot in Discord.js**: Serving the FiveM community with a specialized bot focused on law enforcement activities. From bureau commands to unit management, it's your virtual partner on the streets of Los Santos!
+
+5. **Minecraft Hypixel Skyblock DXPR Stats Viewer**: Delving into Minecraft's Hypixel Skyblock, this tool provides insights into every possible stats about your skyblock profile! Whether you're a dungeon master or an aspiring adventurer, dive into your stats like never before!
 
 ### Current Focus
 
-- Enhancing the functionality and user experience of Rust Renew.
-- Updating tonieninja.xyz with new projects and blog posts.
-- Adding new features and commands to Lightbot and FiveM LSPD Bot.
-- Improving the performance and data visualization of Minecraft Hypixel Skyblock DXPR Stats Viewer.
+- **Enhancing Rust Renew**: Constantly evolving Rust Renew's feature set, integrating user feedback, and exploring new possibilities to elevate your Rust gaming experience.
 
-Feel free to explore my repositories and reach out to me if you have any questions or suggestions regarding my projects. Thank you for your interest and support!
+- **Updating tonieninja.xyz**: Adding new projects, refining the user experience, and sharing my journey as a developer through insightful blog posts.
+
+- **Empowering Lightbot and FiveM LSPD Bot**: Adding new commands, optimizing performance, and ensuring seamless integration with Discord servers.
+
+- **Optimizing Minecraft Hypixel Skyblock DXPR Stats Viewer**: Enhancing data visualization, improving performance, and incorporating user feedback to create the ultimate stats companion.
+
+Feel free to explore my repositories and reach out if you're interested in collaboration, have questions about my projects, or just want to chat tech! Thanks for dropping by, and let's build something awesome together!
