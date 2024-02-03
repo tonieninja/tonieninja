@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Welcome to My GitHub Profile
 
-I'm Toni, a passionate developer working on various projects across different platforms and technologies. Here's a brief overview of what I'm currently working on:
+I'm Tonieninja, a passionate developer working on various projects across different platforms and technologies. Here's a brief overview of what I'm currently working on:
 
 ### Current Projects
 
