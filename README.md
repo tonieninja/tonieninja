@@ -28,7 +28,7 @@ role: Full-Stack Developer & Creative Coder
 location: Poland 🇵🇱
 currently_working_on: Rust Renew • tonieninja.dev
 interests: [Game Tooling, Web Development, Discord Bots, UI/UX Design]
-fun_fact: "My portfolio has 22 hidden themes — can you find them all?"
+fun_fact: "My portfolio has 22 hidden themes -can you find them all?"
 ```
 
 <br/>
@@ -76,7 +76,7 @@ fun_fact: "My portfolio has 22 hidden themes — can you find them all?"
 ### 🔧 Rust Renew
 **The ultimate Rust companion suite**
 
-Leveraging the Rust+ API to deliver real-time base management, raid calculators, crafting tools, smart controls, and server monitoring — all in one place.
+Leveraging the Rust+ API to deliver real-time base management, raid calculators, crafting tools, smart controls, and server monitoring -all in one place.
 
 `JavaScript` `Firebase` `Rust+ API` `Canvas`
 
@@ -88,7 +88,7 @@ Leveraging the Rust+ API to deliver real-time base management, raid calculators,
 ### 🌐 tonieninja.dev
 **Portfolio with 22 hidden themes**
 
-A creative portfolio featuring unlockable themes triggered by secret interactions — Konami codes, mouse gestures, keyboard combos, and more. Pure HTML/CSS/JS wizardry.
+A creative portfolio featuring unlockable themes triggered by secret interactions -Konami codes, mouse gestures, keyboard combos, and more. Pure HTML/CSS/JS wizardry.
 
 `JavaScript` `Tailwind CSS` `Canvas API` `Web Audio`
 
@@ -102,7 +102,7 @@ A creative portfolio featuring unlockable themes triggered by secret interaction
 ### 🤖 Lightbot
 **Feature-rich Discord companion**
 
-A versatile Discord.js bot offering utility commands, entertainment features, and server management tools — designed to enhance any Discord community.
+A versatile Discord.js bot offering utility commands, entertainment features, and server management tools -designed to enhance any Discord community.
 
 `Discord.js` `Node.js` `REST APIs`
 
@@ -112,7 +112,7 @@ A versatile Discord.js bot offering utility commands, entertainment features, an
 ### 🚔 FiveM LSPD Bot
 **Law enforcement management system**
 
-Specialized Discord bot for FiveM RP communities — bureau commands, unit tracking, dispatch tools, and department management for Los Santos PD operations.
+Specialized Discord bot for FiveM RP communities -bureau commands, unit tracking, dispatch tools, and department management for Los Santos PD operations.
 
 `Discord.js` `Node.js` `FiveM API`
 
@@ -124,7 +124,7 @@ Specialized Discord bot for FiveM RP communities — bureau commands, unit track
 ### ⚔️ Hypixel Skyblock DXPR Stats Viewer
 **Deep-dive stats analytics for Minecraft**
 
-Comprehensive stats viewer for Hypixel Skyblock — dungeons, skills, slayers, collections — providing detailed insights into every aspect of your profile.
+Comprehensive stats viewer for Hypixel Skyblock -dungeons, skills, slayers, collections -providing detailed insights into every aspect of your profile.
 
 `JavaScript` `Hypixel API` `Data Visualization`
 
