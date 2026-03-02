@@ -1,29 +1,191 @@
-### Hi there! 👋
+<div align="center">
 
-## Welcome to My GitHub Profile
+<!-- ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7c3aed,100:06b6d4&height=220&section=header&text=tonieninja&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20Creative%20Coder%20%E2%80%A2%20Problem%20Solver&descSize=16&descColor=94a3b8&descAlignY=55&animation=fadeIn" width="100%" />
 
-Hey, I'm tonieninja, a passionate developer exploring the realms of technology and building exciting projects! Below, you'll find an overview of what's keeping me busy lately.
+<!-- TYPING SVG -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=60&lines=Building+digital+experiences+that+surprise+%26+delight;Crafting+code+at+the+intersection+of+art+%26+logic" alt="Typing SVG" /></a>
 
-### Current Projects
+<br/>
 
-1. **Rust Renew**: Delving deep into the world of Rust gaming with Rust Renew! Utilizing the Rust+ API, Rust Renew aims to enhance every aspect of your Rust gaming experience. From base management to server monitoring, expect a suite of features designed to take your Rust adventures to the next level!
+<!-- PROFILE BADGES -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-tonieninja.dev-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tonieninja.dev)
+[![Discord](https://img.shields.io/badge/Discord-tonieninja-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/)
+[![GitHub](https://img.shields.io/badge/GitHub-tonieninja-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tonieninja)
 
-2. **tonieninja.xyz**: My digital playground! It's where I showcase my projects, share insights, and connect with fellow developers. Expect updates, blog posts, and maybe even a surprise or two!
+<img src="https://komarev.com/ghpvc/?username=tonieninja&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile Views" />
 
-3. **Lightbot in Discord.js**: Meet my Discord companion! Lightbot, crafted with Discord.js, offers an array of utility and entertainment features to brighten up any server.
+</div>
 
-4. **FiveM LSPD Bot in Discord.js**: Serving the FiveM community with a specialized bot focused on law enforcement activities. From bureau commands to unit management, it's your virtual partner on the streets of Los Santos!
+<br/>
 
-5. **Minecraft Hypixel Skyblock DXPR Stats Viewer**: Delving into Minecraft's Hypixel Skyblock, this tool provides insights into every possible stats about your skyblock profile! Whether you're a dungeon master or an aspiring adventurer, dive into your stats like never before!
+<!-- ABOUT ME -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Ninja.png" alt="Ninja" width="32" /> &nbsp;About Me
 
-### Current Focus
+```yaml
+name: tonieninja
+role: Full-Stack Developer & Creative Coder
+location: Poland 🇵🇱
+currently_working_on: Rust Renew • tonieninja.dev
+interests: [Game Tooling, Web Development, Discord Bots, UI/UX Design]
+fun_fact: "My portfolio has 22 hidden themes — can you find them all?"
+```
 
-- **Enhancing Rust Renew**: Constantly evolving Rust Renew's feature set, integrating user feedback, and exploring new possibilities to elevate your Rust gaming experience.
+<br/>
 
-- **Updating tonieninja.xyz**: Adding new projects, refining the user experience, and sharing my journey as a developer through insightful blog posts.
+<!-- TECH STACK -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="32" /> &nbsp;Tech Stack
 
-- **Empowering Lightbot and FiveM LSPD Bot**: Adding new commands, optimizing performance, and ensuring seamless integration with Discord servers.
+<div align="center">
 
-- **Optimizing Minecraft Hypixel Skyblock DXPR Stats Viewer**: Enhancing data visualization, improving performance, and incorporating user feedback to create the ultimate stats companion.
+#### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=fff)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=fff)
 
-Feel free to explore my repositories and reach out if you're interested in collaboration, have questions about my projects, or just want to chat tech! Thanks for dropping by, and let's build something awesome together!
+#### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=fff)
+![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=fff)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=fff)
+![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=fff)
+
+#### Tools & Platforms
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=flat-square&logo=unrealengine&logoColor=fff)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=fff)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=fff)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=fff)
+
+</div>
+
+<br/>
+
+<!-- PROJECTS -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="32" /> &nbsp;Featured Projects
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔧 Rust Renew
+**The ultimate Rust companion suite**
+
+Leveraging the Rust+ API to deliver real-time base management, raid calculators, crafting tools, smart controls, and server monitoring — all in one place.
+
+`JavaScript` `Firebase` `Rust+ API` `Canvas`
+
+[![View Project](https://img.shields.io/badge/🔗_Live_Demo-7c3aed?style=for-the-badge)](https://tonieninja.dev/RustRenew/RustRenew.html)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 tonieninja.dev
+**Portfolio with 22 hidden themes**
+
+A creative portfolio featuring unlockable themes triggered by secret interactions — Konami codes, mouse gestures, keyboard combos, and more. Pure HTML/CSS/JS wizardry.
+
+`JavaScript` `Tailwind CSS` `Canvas API` `Web Audio`
+
+[![View Project](https://img.shields.io/badge/🔗_Live_Site-06b6d4?style=for-the-badge)](https://tonieninja.dev)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Lightbot
+**Feature-rich Discord companion**
+
+A versatile Discord.js bot offering utility commands, entertainment features, and server management tools — designed to enhance any Discord community.
+
+`Discord.js` `Node.js` `REST APIs`
+
+</td>
+<td width="50%" valign="top">
+
+### 🚔 FiveM LSPD Bot
+**Law enforcement management system**
+
+Specialized Discord bot for FiveM RP communities — bureau commands, unit tracking, dispatch tools, and department management for Los Santos PD operations.
+
+`Discord.js` `Node.js` `FiveM API`
+
+</td>
+</tr>
+<tr>
+<td width="50%" colspan="2" align="center" valign="top">
+
+### ⚔️ Hypixel Skyblock DXPR Stats Viewer
+**Deep-dive stats analytics for Minecraft**
+
+Comprehensive stats viewer for Hypixel Skyblock — dungeons, skills, slayers, collections — providing detailed insights into every aspect of your profile.
+
+`JavaScript` `Hypixel API` `Data Visualization`
+
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+<!-- GITHUB STATS -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="32" /> &nbsp;GitHub Stats
+
+<div align="center">
+<a href="https://github.com/tonieninja">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=tonieninja&show_icons=true&theme=midnight-purple&bg_color=0d1117&border_color=7c3aed&icon_color=06b6d4&title_color=a78bfa&text_color=94a3b8&ring_color=7c3aed&hide_border=false&count_private=true" alt="GitHub Stats" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/tonieninja">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonieninja&layout=compact&theme=midnight-purple&bg_color=0d1117&border_color=7c3aed&title_color=a78bfa&text_color=94a3b8&hide_border=false&langs_count=8" alt="Top Languages" />
+</a>
+</div>
+
+<br/>
+
+<div align="center">
+<a href="https://github.com/tonieninja">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tonieninja&theme=midnight-purple&background=0D1117&border=7C3AED&ring=7C3AED&fire=06B6D4&currStreakLabel=A78BFA&sideLabels=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B" alt="GitHub Streak" />
+</a>
+</div>
+
+<br/>
+
+<!-- CONTRIBUTION GRAPH -->
+<div align="center">
+<a href="https://github.com/tonieninja">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tonieninja&bg_color=0d1117&color=a78bfa&line=7c3aed&point=06b6d4&area=true&area_color=7c3aed&hide_border=true" width="95%" alt="Contribution Graph" />
+</a>
+</div>
+
+<br/>
+
+<!-- SNAKE -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tonieninja/tonieninja/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tonieninja/tonieninja/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/tonieninja/tonieninja/output/github-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+<br/>
+
+<!-- QUOTE -->
+<div align="center">
+
+> *"You found the breach. Not many do."* ◆
+
+</div>
+
+<br/>
+
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:7c3aed,100:0d1117&height=120&section=footer" width="100%" />
