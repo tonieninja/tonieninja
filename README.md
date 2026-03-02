@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7c3aed,100:06b6d4&height=220&section=header&text=tonieninja&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20Creative%20Coder%20%E2%80%A2%20Problem%20Solver&descSize=16&descColor=94a3b8&descAlignY=55&animation=fadeIn" width="100%" />
 
 <!-- TYPING SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&random=false&width=850&height=45&lines=Building+digital+experiences+that+surprise+%26+delight;Crafting+code+at+the+intersection+of+art+%26+logic" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&random=false&width=650&height=45&lines=Building+digital+experiences+that+surprise+%26+delight;Crafting+code+at+the+intersection+of+art+%26+logic" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -93,40 +93,6 @@ A creative portfolio featuring unlockable themes triggered by secret interaction
 `JavaScript` `Tailwind CSS` `Canvas API` `Web Audio`
 
 [![View Project](https://img.shields.io/badge/🔗_Live_Site-06b6d4?style=for-the-badge)](https://tonieninja.dev)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 Lightbot
-**Feature-rich Discord companion**
-
-A versatile Discord.js bot offering utility commands, entertainment features, and server management tools — designed to enhance any Discord community.
-
-`Discord.js` `Node.js` `REST APIs`
-
-</td>
-<td width="50%" valign="top">
-
-### 🚔 FiveM LSPD Bot
-**Law enforcement management system**
-
-Specialized Discord bot for FiveM RP communities — bureau commands, unit tracking, dispatch tools, and department management for Los Santos PD operations.
-
-`Discord.js` `Node.js` `FiveM API`
-
-</td>
-</tr>
-<tr>
-<td width="50%" colspan="2" align="center" valign="top">
-
-### ⚔️ Hypixel Skyblock DXPR Stats Viewer
-**Deep-dive stats analytics for Minecraft**
-
-Comprehensive stats viewer for Hypixel Skyblock — dungeons, skills, slayers, collections — providing detailed insights into every aspect of your profile.
-
-`JavaScript` `Hypixel API` `Data Visualization`
 
 </td>
 </tr>
