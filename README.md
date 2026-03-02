@@ -28,7 +28,7 @@ role: Full-Stack Developer & Creative Coder
 location: Poland 🇵🇱
 currently_working_on: Rust Renew • tonieninja.dev
 interests: [Game Tooling, Web Development, Discord Bots, UI/UX Design]
-fun_fact: "My portfolio has 22 hidden themes — can you find them all?"
+fun_fact: "My portfolio has 22 hidden themes - can you find them all?"
 ```
 
 <br/>
@@ -76,7 +76,7 @@ fun_fact: "My portfolio has 22 hidden themes — can you find them all?"
 ### 🔧 Rust Renew
 **The ultimate Rust companion suite**
 
-Leveraging the Rust+ API to deliver real-time base management, raid calculators, crafting tools, smart controls, and server monitoring — all in one place.
+Leveraging the Rust+ API to deliver real-time base management, raid calculators, crafting tools, smart controls, and server monitoring - all in one place.
 
 `JavaScript` `Firebase` `Rust+ API` `Canvas`
 
@@ -88,7 +88,7 @@ Leveraging the Rust+ API to deliver real-time base management, raid calculators,
 ### 🌐 tonieninja.dev
 **Portfolio with 22 hidden themes**
 
-A creative portfolio featuring unlockable themes triggered by secret interactions — Konami codes, mouse gestures, keyboard combos, and more. Pure HTML/CSS/JS wizardry.
+A creative portfolio featuring unlockable themes triggered by secret interactions - Konami codes, mouse gestures, keyboard combos, and more. Pure HTML/CSS/JS wizardry.
 
 `JavaScript` `Tailwind CSS` `Canvas API` `Web Audio`
 
@@ -101,25 +101,35 @@ A creative portfolio featuring unlockable themes triggered by secret interaction
 
 <br/>
 
-<!-- GITHUB STATS -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="32" /> &nbsp;GitHub Stats
+<!-- TROPHIES -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="32" /> &nbsp;Achievements
 
 <div align="center">
-<a href="https://github.com/tonieninja">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=tonieninja&show_icons=true&theme=midnight-purple&bg_color=0d1117&border_color=7c3aed&icon_color=06b6d4&title_color=a78bfa&text_color=94a3b8&ring_color=7c3aed&hide_border=false&count_private=true" alt="GitHub Stats" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/tonieninja">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonieninja&layout=compact&theme=midnight-purple&bg_color=0d1117&border_color=7c3aed&title_color=a78bfa&text_color=94a3b8&hide_border=false&langs_count=8" alt="Top Languages" />
-</a>
+  <img src="https://github-profile-trophy.vercel.app/?username=tonieninja&theme=discord&no-bg=true&no-frame=true&column=7&margin-w=10" width="100%" alt="Trophies" />
 </div>
 
 <br/>
 
+<!-- GITHUB STATS -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="32" /> &nbsp;GitHub Stats
+
 <div align="center">
+
 <a href="https://github.com/tonieninja">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tonieninja&theme=midnight-purple&background=0D1117&border=7C3AED&ring=7C3AED&fire=06B6D4&currStreakLabel=A78BFA&sideLabels=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B" alt="GitHub Streak" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=tonieninja&show_icons=true&rank_icon=percentile&theme=midnight-purple&bg_color=0d1117&border_color=30363d&icon_color=06b6d4&title_color=a78bfa&text_color=c9d1d9&ring_color=7c3aed&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </a>
+&nbsp;
+<a href="https://github.com/tonieninja">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonieninja&layout=compact&theme=midnight-purple&bg_color=0d1117&border_color=30363d&title_color=a78bfa&text_color=c9d1d9&hide_border=false&langs_count=8&card_width=320" alt="Top Languages" />
+</a>
+
+<br/><br/>
+
+<!-- STREAK (fixed: herokuapp → demolab.com) -->
+<a href="https://github.com/tonieninja">
+  <img src="https://streak-stats.demolab.com?user=tonieninja&theme=midnight-purple&background=0D1117&border=30363D&ring=7C3AED&fire=06B6D4&currStreakLabel=A78BFA&sideLabels=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B" alt="GitHub Streak" />
+</a>
+
 </div>
 
 <br/>
@@ -127,7 +137,7 @@ A creative portfolio featuring unlockable themes triggered by secret interaction
 <!-- CONTRIBUTION GRAPH -->
 <div align="center">
 <a href="https://github.com/tonieninja">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tonieninja&bg_color=0d1117&color=a78bfa&line=7c3aed&point=06b6d4&area=true&area_color=7c3aed&hide_border=true" width="95%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tonieninja&bg_color=0d1117&color=a78bfa&line=7c3aed&point=06b6d4&area=true&area_color=7c3aed&hide_border=true&custom_title=Contribution%20Timeline" width="95%" alt="Contribution Graph" />
 </a>
 </div>
 
@@ -146,6 +156,10 @@ A creative portfolio featuring unlockable themes triggered by secret interaction
 
 <!-- QUOTE -->
 <div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=midnight-purple&border=true" alt="Dev Quote" />
+
+<br/><br/>
 
 > *"You found the breach. Not many do."* ◆
 
