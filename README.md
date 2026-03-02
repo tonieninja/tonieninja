@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7c3aed,100:06b6d4&height=220&section=header&text=tonieninja&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20Creative%20Coder%20%E2%80%A2%20Problem%20Solver&descSize=16&descColor=94a3b8&descAlignY=55&animation=fadeIn" width="100%" />
 
 <!-- TYPING SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&random=false&width=650&height=45&lines=Building+digital+experiences+that+surprise+%26+delight;Crafting+code+at+the+intersection+of+art+%26+logic" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&random=false&width=850&height=45&lines=Building+digital+experiences+that+surprise+%26+delight;Crafting+code+at+the+intersection+of+art+%26+logic" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -28,7 +28,7 @@ role: Full-Stack Developer & Creative Coder
 location: Poland 🇵🇱
 currently_working_on: Rust Renew • tonieninja.dev
 interests: [Game Tooling, Web Development, Discord Bots, UI/UX Design]
-fun_fact: "My portfolio has 22 hidden themes — can you find them all?"
+fun_fact: "My portfolio has 22 hidden themes - can you find them all?"
 ```
 
 <br/>
@@ -76,7 +76,7 @@ fun_fact: "My portfolio has 22 hidden themes — can you find them all?"
 ### 🔧 Rust Renew
 **The ultimate Rust companion suite**
 
-Leveraging the Rust+ API to deliver real-time base management, raid calculators, crafting tools, smart controls, and server monitoring — all in one place.
+Leveraging the Rust+ API to deliver real-time base management, raid calculators, crafting tools, smart controls, and server monitoring - all in one place.
 
 `JavaScript` `Firebase` `Rust+ API` `Canvas`
 
@@ -88,7 +88,7 @@ Leveraging the Rust+ API to deliver real-time base management, raid calculators,
 ### 🌐 tonieninja.dev
 **Portfolio with 22 hidden themes**
 
-A creative portfolio featuring unlockable themes triggered by secret interactions — Konami codes, mouse gestures, keyboard combos, and more. Pure HTML/CSS/JS wizardry.
+A creative portfolio featuring unlockable themes triggered by secret interactions - Konami codes, mouse gestures, keyboard combos, and more. Pure HTML/CSS/JS wizardry.
 
 `JavaScript` `Tailwind CSS` `Canvas API` `Web Audio`
 
