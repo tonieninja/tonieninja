@@ -118,11 +118,7 @@ A creative portfolio featuring unlockable themes triggered by secret interaction
 
 <!-- SNAKE -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tonieninja/tonieninja/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tonieninja/tonieninja/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/tonieninja/tonieninja/output/github-snake-dark.svg" />
-  </picture>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/tonieninja/tonieninja/output/github-snake-dark.svg" width="75%" />
 </div>
 
 <br/>
