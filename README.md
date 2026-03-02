@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7c3aed,100:06b6d4&height=220&section=header&text=tonieninja&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20Creative%20Coder%20%E2%80%A2%20Problem%20Solver&descSize=16&descColor=94a3b8&descAlignY=55&animation=fadeIn" width="100%" />
 
 <!-- TYPING SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&random=false&width=850&height=45&lines=Building+digital+experiences+that+surprise+%26+delight;Crafting+code+at+the+intersection+of+art+%26+logic" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&random=false&width=650&height=45&lines=Building+digital+experiences+that+surprise+%26+delight;Crafting+code+at+the+intersection+of+art+%26+logic" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -28,7 +28,7 @@ role: Full-Stack Developer & Creative Coder
 location: Poland 🇵🇱
 currently_working_on: Rust Renew • tonieninja.dev
 interests: [Game Tooling, Web Development, Discord Bots, UI/UX Design]
-fun_fact: "My portfolio has 22 hidden themes - can you find them all?"
+fun_fact: "My portfolio has 22 hidden themes — can you find them all?"
 ```
 
 <br/>
@@ -76,7 +76,7 @@ fun_fact: "My portfolio has 22 hidden themes - can you find them all?"
 ### 🔧 Rust Renew
 **The ultimate Rust companion suite**
 
-Leveraging the Rust+ API to deliver real-time base management, raid calculators, crafting tools, smart controls, and server monitoring - all in one place.
+Leveraging the Rust+ API to deliver real-time base management, raid calculators, crafting tools, smart controls, and server monitoring — all in one place.
 
 `JavaScript` `Firebase` `Rust+ API` `Canvas`
 
@@ -88,7 +88,7 @@ Leveraging the Rust+ API to deliver real-time base management, raid calculators,
 ### 🌐 tonieninja.dev
 **Portfolio with 22 hidden themes**
 
-A creative portfolio featuring unlockable themes triggered by secret interactions - Konami codes, mouse gestures, keyboard combos, and more. Pure HTML/CSS/JS wizardry.
+A creative portfolio featuring unlockable themes triggered by secret interactions — Konami codes, mouse gestures, keyboard combos, and more. Pure HTML/CSS/JS wizardry.
 
 `JavaScript` `Tailwind CSS` `Canvas API` `Web Audio`
 
@@ -105,7 +105,7 @@ A creative portfolio featuring unlockable themes triggered by secret interaction
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="32" /> &nbsp;Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tonieninja&theme=discord&no-bg=true&no-frame=true&column=7&margin-w=10" width="100%" alt="Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=tonieninja&theme=discord&no-bg=true&no-frame=true&column=7&margin-w=10" alt="Trophies" />
 </div>
 
 <br/>
@@ -115,20 +115,14 @@ A creative portfolio featuring unlockable themes triggered by secret interaction
 
 <div align="center">
 
-<a href="https://github.com/tonieninja">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=tonieninja&show_icons=true&rank_icon=percentile&theme=midnight-purple&bg_color=0d1117&border_color=30363d&icon_color=06b6d4&title_color=a78bfa&text_color=c9d1d9&ring_color=7c3aed&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</a>
 &nbsp;
-<a href="https://github.com/tonieninja">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonieninja&layout=compact&theme=midnight-purple&bg_color=0d1117&border_color=30363d&title_color=a78bfa&text_color=c9d1d9&hide_border=false&langs_count=8&card_width=320" alt="Top Languages" />
-</a>
 
 <br/><br/>
 
-<!-- STREAK (fixed: herokuapp → demolab.com) -->
-<a href="https://github.com/tonieninja">
+<!-- STREAK -->
   <img src="https://streak-stats.demolab.com?user=tonieninja&theme=midnight-purple&background=0D1117&border=30363D&ring=7C3AED&fire=06B6D4&currStreakLabel=A78BFA&sideLabels=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B" alt="GitHub Streak" />
-</a>
 
 </div>
 
@@ -136,19 +130,14 @@ A creative portfolio featuring unlockable themes triggered by secret interaction
 
 <!-- CONTRIBUTION GRAPH -->
 <div align="center">
-<a href="https://github.com/tonieninja">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tonieninja&bg_color=0d1117&color=a78bfa&line=7c3aed&point=06b6d4&area=true&area_color=7c3aed&hide_border=true&custom_title=Contribution%20Timeline" width="95%" alt="Contribution Graph" />
-</a>
 </div>
 
 <br/>
 
 <!-- SNAKE -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tonieninja/tonieninja/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tonieninja/tonieninja/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/tonieninja/tonieninja/output/github-snake-dark.svg" width="100%" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/tonieninja/tonieninja/output/github-snake-dark.svg" width="100%" />
   </picture>
 </div>
 
