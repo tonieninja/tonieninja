@@ -10,7 +10,6 @@
 
 <!-- PROFILE BADGES -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-tonieninja.dev-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tonieninja.dev)
-[![Discord](https://img.shields.io/badge/Discord-tonieninja-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/)
 [![GitHub](https://img.shields.io/badge/GitHub-tonieninja-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tonieninja)
 
 <img src="https://komarev.com/ghpvc/?username=tonieninja&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile Views" />
