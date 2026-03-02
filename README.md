@@ -4,12 +4,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7c3aed,100:06b6d4&height=220&section=header&text=tonieninja&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20Creative%20Coder%20%E2%80%A2%20Problem%20Solver&descSize=16&descColor=94a3b8&descAlignY=55&animation=fadeIn" width="100%" />
 
 <!-- TYPING SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=60&lines=Building+digital+experiences+that+surprise+%26+delight;Crafting+code+at+the+intersection+of+art+%26+logic" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&random=false&width=650&height=45&lines=Building+digital+experiences+that+surprise+%26+delight;Crafting+code+at+the+intersection+of+art+%26+logic" alt="Typing SVG" /></a>
 
 <br/>
 
 <!-- PROFILE BADGES -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-tonieninja.dev-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tonieninja.dev)
+[![Discord](https://img.shields.io/badge/Discord-tonieninja-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/)
 [![GitHub](https://img.shields.io/badge/GitHub-tonieninja-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tonieninja)
 
 <img src="https://komarev.com/ghpvc/?username=tonieninja&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile Views" />
