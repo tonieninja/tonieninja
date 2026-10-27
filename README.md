@@ -10,7 +10,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-tonieninja.dev-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tonieninja.dev)
 [![Rust Renew](https://img.shields.io/badge/Rust_Renew-Live_Demo-06b6d4?style=for-the-badge&logo=rust&logoColor=white)](https://tonieninja.dev/RustRenew/RustRenew.html)
-[![Discord](https://img.shields.io/badge/Discord-tonieninja-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD_ID)
+[![Discord](https://img.shields.io/badge/Discord-czarnyninja-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/429324887048323073)
 [![GitHub followers](https://img.shields.io/github/followers/tonieninja?style=for-the-badge&logo=github&color=181717&label=Followers)](https://github.com/tonieninja?tab=followers)
 ![Profile Views](https://komarev.com/ghpvc/?username=tonieninja&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
 
@@ -142,7 +142,7 @@ Psst — the portfolio has 22 hidden themes. Try the Konami code, wiggle your mo
 Open to collabs, weird ideas and anything that makes a browser do things it shouldn't.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=flat-square&logo=googlechrome&logoColor=white)](https://tonieninja.dev)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD_ID)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/429324887048323073)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tonieninja)
 
 <br/>
