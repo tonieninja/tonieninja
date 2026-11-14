@@ -1,9 +1,9 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.png">
-  <img src="assets/header-light.png" width="100%" alt="tonieninja. i make desktop apps and tools for games">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img src="assets/header-light.svg" width="100%" alt="tonieninja. i make desktop apps and tools for games">
 </picture>
 
-<a href="https://github.com/tonieninja/zenith-player"><img src="assets/zenith.png" width="100%" alt="Zenith, a desktop player for YouTube Music. v4.1.2 for Windows, Linux and macOS"></a>
+<a href="https://github.com/tonieninja/zenith-player"><img src="assets/zenith.svg" width="100%" alt="Zenith, a desktop player for YouTube Music. v4.1.2 for Windows, Linux and macOS"></a>
 
 <p align="center">
   <a href="https://github.com/tonieninja/zenith-player">source</a>
@@ -11,10 +11,7 @@
   <a href="https://github.com/tonieninja/zenith-player/releases/latest">download</a>
 </p>
 
-<p>
-  <a href="https://tonieninja.dev/RustRenew/RustRenew.html"><img src="assets/rust-renew.png" width="49.4%" alt="Rust Renew, a companion app for the game Rust"></a>
-  <a href="https://github.com/tonieninja/LatarkaUnity"><img src="assets/latarka.png" width="49.4%" alt="LatarkaUnity, a simple flashlight for Unity"></a>
-</p>
+<a href="https://tonieninja.dev/RustRenew/RustRenew.html"><img src="assets/rust-renew.png" width="100%" alt="Rust Renew, a companion app for the game Rust"></a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.png">
