@@ -22,7 +22,8 @@ text{font-family:Outfit,sans-serif}
 <text x="72" y="398" font-size="104" font-weight="600" letter-spacing="-4" fill="#f4f5f7">Zenith</text>
 <text x="76" y="458" font-size="33" fill="#b2bac7" letter-spacing="-0.3">a desktop player for YouTube Music</text>
 <text font-size="24" fill="#7a8394"><tspan x="76" y="512">synced lyrics with karaoke fill, crossfade,</tspan><tspan x="76" y="548">gapless albums, a 15-band EQ, offline</tspan><tspan x="76" y="584">downloads and a phone remote. no ads,</tspan><tspan x="76" y="620">no telemetry.</tspan></text>
-<text x="76" y="682" font-size="21" fill="#5f6878" letter-spacing="0.3"><tspan fill="#a9c4ff" font-weight="500">v4.1.2</tspan>  ·  windows, linux, macos  ·  tauri + rust + react</text>
+<text x="76" y="682" font-size="21" fill="#5f6878" letter-spacing="0.3"><tspan fill="#a9c4ff" font-weight="500">windows, linux, macos</tspan>  ·  tauri + rust + react</text>
+<text x="76" y="720" font-size="18" fill="#4d5564" letter-spacing="0.3">independent project, not affiliated with Google or YouTube</text>
 <rect x=".5" y=".5" width="1599" height="799" rx="27.5" fill="none" stroke="#fff" stroke-opacity=".07"/>
 </g>
 </svg>

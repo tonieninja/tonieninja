@@ -3,7 +3,7 @@
   <img src="assets/header-light.svg" width="100%" alt="tonieninja. i make desktop apps and tools for games">
 </picture>
 
-<a href="https://github.com/tonieninja/zenith-player"><img src="assets/zenith.svg" width="100%" alt="Zenith, a desktop player for YouTube Music. v4.1.2 for Windows, Linux and macOS"></a>
+<a href="https://github.com/tonieninja/zenith-player"><img src="assets/zenith.svg" width="100%" alt="Zenith, a desktop player for YouTube Music for Windows, Linux and macOS. Independent project, not affiliated with Google or YouTube"></a>
 
 <p align="center">
   <a href="https://github.com/tonieninja/zenith-player">source</a>
