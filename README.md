@@ -11,9 +11,7 @@
   <a href="https://github.com/tonieninja/zenith-player/releases/latest">download</a>
 </p>
 
-<a href="https://tonieninja.dev/RustRenew/RustRenew.html"><img src="assets/rust-renew.png" width="100%" alt="Rust Renew, a companion app for the game Rust"></a>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.png">
-  <img src="assets/footer-light.png" width="100%" alt="right now: more raid tools for Rust Renew and whatever Zenith needs next. stack: rust, typescript, c++, c#, python, lua. say hi on discord: czarnyninja">
+  <img src="assets/footer-light.png" width="100%" alt="right now: Zenith and whatever it needs next. on the side, Unreal Engine 5 internals and reverse engineering. stack: rust, typescript, c++, c#, python, lua. say hi on discord: czarnyninja">
 </picture>
